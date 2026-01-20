@@ -6,4 +6,6 @@ nltk
 fuzzywuzzy
 python-Levenshtein
 beautifulsoup4
+distance
+
 
