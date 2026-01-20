@@ -115,8 +115,9 @@ Steps:
 ## 🧪 Example Use Case
 
 **Input:**
-Q1: What is machine learning?
-Q2: Explain machine learning.
+Q1: Machine learning helps computers learn from data.
+
+Q2: Computers can learn from data using machine learning.
 
 **Output:**
 ✅ Duplicate Question
