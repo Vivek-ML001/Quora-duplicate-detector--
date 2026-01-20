@@ -120,6 +120,8 @@ Q2: Explain machine learning.
 
 **Output:**
 ✅ Duplicate Question
+<img width="1870" height="1004" alt="image" src="https://github.com/user-attachments/assets/ae749166-fa0a-4e02-a93c-d6d7be4675ca" />
+
 
 ---
 
