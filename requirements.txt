@@ -1,9 +1,9 @@
-streamlit
+flask
+gunicorn
 scikit-learn
 numpy
 pandas
 nltk
 fuzzywuzzy
 python-Levenshtein
-distance
-beautifulsoup4
+
