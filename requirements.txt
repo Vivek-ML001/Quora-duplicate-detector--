@@ -9,4 +9,5 @@ beautifulsoup4
 distance
 helper
 scikit-learn==1.6.1
+beautifulsoup4
 
