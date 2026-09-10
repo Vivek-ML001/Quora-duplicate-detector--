@@ -1,5 +1,5 @@
 streamlit
-scikit-learn
+scikit-learn==1.6.1
 numpy
 pandas
 nltk
@@ -7,7 +7,3 @@ fuzzywuzzy
 python-Levenshtein
 beautifulsoup4
 distance
-helper
-scikit-learn==1.6.1
-beautifulsoup4
-
